@@ -14,4 +14,4 @@ Repository Link:
 
 https://github.com/jerrytrueba/Code-Refactor
 
-![alt text](assets/images/screenshot-1.png)
+![alt text](assets/images/screenshot1.png)
