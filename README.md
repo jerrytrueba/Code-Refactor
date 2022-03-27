@@ -13,3 +13,5 @@ https://jerrytrueba.github.io/Code-Refactor/
 Repository Link:
 
 https://github.com/jerrytrueba/Code-Refactor
+
+![alt text](assets/images/screenshot-1.png)
