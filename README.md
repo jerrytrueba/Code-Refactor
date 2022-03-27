@@ -15,5 +15,5 @@ Repository Link:
 https://github.com/jerrytrueba/Code-Refactor
 
 Screenshots:
-md
-    ![alt text](assets/images/Screenshot-1.png)
+
+
